@@ -5,6 +5,10 @@
 ## Project Overview
 
 This project explores data from popular YouTube music channels to uncover patterns and factors contributing to their success. By analyzing metrics such as subscriber counts, view counts, likes, comments, tags, and upload times, we aim to identify key elements influencing a channel's popularity and video performance.
+### Power-BI Dashboard
+![page1](https://github.com/user-attachments/assets/58068567-37f2-4315-a9b6-4a15819437a7)
+
+![page2](https://github.com/user-attachments/assets/7cf84acb-76cc-42d3-8874-347d6c814673)
 
 ### Key Insights
 
